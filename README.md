@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm a pragmatic developer with a confident attitude and a cup of coffee 😎
+I'm a pragmatic developer with confident attitude and a cup of coffee 😎
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/LeThanhDomination.20) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lethanh07.25) 
